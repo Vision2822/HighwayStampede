@@ -13,7 +13,7 @@
 
 ## 🎮 Game Features
 
-- ** infinite Procedural World:** The highway generates infinitely using Python **Generators**, ensuring no two runs are the same.
+- **Infinite Procedural World:** The highway generates infinitely using Python **Generators**, ensuring no two runs are the same.
 - **🤖 AI Head Tracking:** Uses **Google MediaPipe** and **OpenCV** to track facial landmarks. Tilt your head Left or Right to steer the cowboy!
 - **⚡ Multithreading:** The computer vision logic runs on a separate **daemon thread**, ensuring the game maintains a smooth 60 FPS while processing video input.
 - **🏎️ Traffic System:** Diverse vehicles (Police, Taxi, Race cars) with unique speeds and behaviors.
